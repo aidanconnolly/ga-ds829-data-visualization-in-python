@@ -8,12 +8,12 @@ Unit 2 : Working with Data | Lesson 4 : Visualizations
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Slides | high-level visualization (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
-| Lab | student walkthrough of visualizations (lengthy) | [Here](python-data-viz-lab.ipynb) |
+| Slides | high-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
+| Lab | student-guided walkthrough (lengthy) | [Here](python-data-viz-lab.ipynb) |
 | Solution  | None needed | -- |
 | Datasets | standard UCI Boston housing | [boston\_housing\_data.csv](./datasets/boston_housing_data.csv) |
-|          | Generic sales data | [sales\_info.csv](./datasets/sales_info.csv) |
-|          | UFO sightings | [ufo.csv](./datasets/ufo.csv) |
+|          | generic quarterly sales data | [sales\_info.csv](./datasets/sales_info.csv) |
+|          | UFO sighting records | [ufo.csv](./datasets/ufo.csv) |
 | Source Materials | Original files used to create this lesson | -- |
 
 ---
