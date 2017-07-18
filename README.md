@@ -9,7 +9,7 @@ Unit 2 : Working with Data | Lesson 4 : Visualizations
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | High-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
-| Practice Activity | Student-Led Walkthrough | [Here](python-data-viz-lab.ipynb) |
+| Practice Activity | Student-led walkthrough | [Here](python-data-viz-lab.ipynb) |
 | Solution  | None needed | X |
 | Datasets | Standard UCI Boston housing | [Here](./datasets/boston_housing_data.csv) |
 |          | Generic quarterly sales data | [Here](./datasets/sales_info.csv) |
