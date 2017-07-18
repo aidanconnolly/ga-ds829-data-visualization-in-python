@@ -8,42 +8,47 @@ Unit 2 : Working with Data | Lesson 4 : Visualizations
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Slides | high-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
-| Lab | student-guided walkthrough (lengthy) | [Here](python-data-viz-lab.ipynb) |
+| Lesson | High-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
+| Practice Activity | Student-Led Walkthrough | [Here](python-data-viz-lab.ipynb) |
 | Solution  | None needed | -- |
-| Datasets | standard UCI Boston housing | [boston\_housing\_data.csv](./datasets/boston_housing_data.csv) |
-|          | generic quarterly sales data | [sales\_info.csv](./datasets/sales_info.csv) |
+| Datasets | Standard UCI Boston housing | [boston\_housing\_data.csv](./datasets/boston_housing_data.csv) |
+|          | Generic quarterly sales data | [sales\_info.csv](./datasets/sales_info.csv) |
 |          | UFO sighting records | [ufo.csv](./datasets/ufo.csv) |
-| Source Materials | Original files used to create this lesson | -- |
+<!--| Source Materials | Original files used to create this lesson | -- |-->
 
 ---
 
-## Lesson Outline
+## Learning Objectives
 
-### Slides
-
-#### Learning Objectives
+### Part 1: Data Visualization Overview
 
 - **Describe** why data visualization is important.
 - **Identify** the characteristics of a great data visualization.
 - **Describe** when you would use a bar chart, pie chart, scatter plot, and histogram.
 
----
-
-### Lab
-
-#### Learning Objectives
+### Part 2: Guided Practice
  
-- **Understand** when to use different types of plots.
+- **Define** when to use different types of plots.
 - **Familiarize** yourself with available Pandas methods for plotting.
 - **Code** line plots, bar plots, histograms, and box plots.
-- **Know** when to use Seaborn or advanced Matplotlib
+- **Explain** when to use Seaborn or advanced Matplotlib
+
 ---
 
-## STUDENT PRE-WORK
+## Lesson Outline
+
+
+
+---
+
+## Student Requirements
 
 Before this lesson(s), students should already be able to:
 
-- Be familiar with the basics of Pandas DataFrames and Series
+- Recall and define the basic syntax for Pandas DataFrames and Series
 
-----
+---
+
+## Additional Resources
+
+For more information on this topic, check out the following resources:
