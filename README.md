@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Visualizations
 
-Unit 2 : Working with Data | Lesson 4 : Visualizations
+> Unit 2, Lesson 4
 
 ---
 
