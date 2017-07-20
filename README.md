@@ -9,12 +9,17 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | High-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
-| Practice Activity | Student-led walkthrough | [Here](python-data-viz-lab.ipynb) |
-| Solution  | None needed | X |
+| Practice Activity | Instructor-run lab with exercises | [Here](python-data-viz-lab.ipynb) |
+| Solution  | There are a few exercises in the lab. | [Here](solution-code/python-data-viz-lab-solutions.ipynb) |
 | Datasets | Standard UCI Boston housing | [Here](./datasets/boston_housing_data.csv) |
 |          | Generic quarterly sales data | [Here](./datasets/sales_info.csv) |
 |          | UFO sighting records | [Here](./datasets/ufo.csv) |
 <!--| Source Materials | Original files used to create this lesson | -- |-->
+
+**Instructor:**
+- Start with the lesson Jupyter slide deck.
+- Next, walk the students through the lab.
+- Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
 
 ---
 
