@@ -14,6 +14,7 @@
 | Datasets | Standard UCI Boston housing | [Here](./datasets/boston_housing_data.csv) |
 |          | Generic quarterly sales data | [Here](./datasets/sales_info.csv) |
 |          | UFO sighting records | [Here](./datasets/ufo.csv) |
+|          | Drinks consumed per capita in various countries | [Here](./datasets/drinks.csv) |
 <!--| Source Materials | Original files used to create this lesson | -- |-->
 
 **Instructor:**
@@ -31,18 +32,38 @@
 - **Identify** the characteristics of a great data visualization.
 - **Describe** when you would use a bar chart, pie chart, scatter plot, and histogram.
 
-### Part 2: Guided Practice
+### Part 2: Guided Practice (Lab)
  
-- **Define** when to use different types of plots.
+- **Understand** when to use different types of plots.
 - **Familiarize** yourself with available Pandas methods for plotting.
 - **Code** line plots, bar plots, histograms, and box plots.
-- **Explain** when to use Seaborn or advanced Matplotlib
+- **Know** when to use Seaborn or advanced Matplotlib
 
 ---
 
 ## Lesson Outline
 
+### Part 1: Data Visualization Overview
 
+- Why Use Data Visualization?
+- Anscombe's Quartet
+- Attributes of Good Visualization
+- Choosing the Right Chart
+- Independent Research
+- Conclusion
+
+### Part 2: Guided Practice (Lab)
+
+- Line Plots
+- Bar Plots
+- Histograms
+- Grouped Histograms
+- Box Plots
+- Grouped Box Plots
+- Using Seaborn
+- Understanding Matplotlib
+- Additional Topics
+- Summary
 
 ---
 
@@ -57,3 +78,8 @@ Before this lesson(s), students should already be able to:
 ## Additional Resources
 
 For more information on this topic, check out the following resources:
+
+- [SAS Data Viz Guide](http://www.sas.com/en_us/insights/big-data/data-visualization.html)
+- [Professor Shafer's Guide to Viz Attributes](http://mediashift.org/2016/02/checklist-does-your-data-visualization-say-what-you-think-it-says/)
+- [Tableau's Guide to Data Viz](https://drive.google.com/file/d/0Bx2SHQGVqWasT1l4NWtLclJJcWM/view)
+- Documentation for [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Pandas Plotting](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html)
