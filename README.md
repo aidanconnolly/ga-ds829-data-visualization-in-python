@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Lesson | High-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
 | Practice Activity | Instructor-run lab with exercises | [Here](python-data-viz-lab.ipynb) |
-| Solution  | There are a few exercises in the lab. | [Here](solution-code/python-data-viz-lab-solutions.ipynb) |
+| Solution  | Solutions to the lab exercises. | [Here](solution-code/python-data-viz-lab-solutions.ipynb) |
 | Datasets | Standard UCI Boston housing | [Here](./datasets/boston_housing_data.csv) |
 |          | Generic quarterly sales data | [Here](./datasets/sales_info.csv) |
 |          | UFO sighting records | [Here](./datasets/ufo.csv) |
@@ -19,8 +19,8 @@
 
 **Instructor:**
 - Start with the lesson Jupyter slide deck.
-- Next, walk the students through the lab.
-- Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
+- Then, walk the students through each part of the lab. Discuss when to use each type of plot.
+- Periodically stop and let the students try the challenges (together in groups if needed). The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
 
 ---
 
@@ -34,35 +34,39 @@
 
 ### Part 2: Guided Practice (Lab)
  
-- **Understand** when to use different types of plots.
-- **Familiarize** yourself with available Pandas methods for plotting.
-- **Code** line plots, bar plots, histograms, and box plots.
+- **Practice** using different types of plots.
+- **Use** Pandas methods for plotting.
+- **Create** line plots, bar plots, histograms, and box plots.
 - **Know** when to use Seaborn or advanced Matplotlib
 
 ---
 
 ## Lesson Outline
 
-### Part 1: Data Visualization Overview
+### Part 1: Data Visualization Overview (40 mins)
 
-- Why Use Data Visualization?
-- Anscombe's Quartet
-- Attributes of Good Visualization
-- Choosing the Right Chart
-- Independent Research
+- Why Use Data Visualization? (5 mins)
+- Anscombe's Quartet (10 mins)
+- Attributes of Good Visualization (10 mins)
+- Choosing the Right Chart (15 mins)
+- Independent Research (see Part 2)
 - Conclusion
 
-### Part 2: Guided Practice (Lab)
+### Part 2: Guided Practice Lab (130 mins)
 
-- Line Plots
-- Bar Plots
-- Histograms
-- Grouped Histograms
-- Box Plots
-- Grouped Box Plots
-- Using Seaborn
-- Understanding Matplotlib
-- Additional Topics
+- Line Plots (20 mins)
+- Line Plots EXERCISE (10 mins)
+- Bar Plots (15 mins)
+- Bar Plots EXERCISE (10 mins)
+- Histograms (15 mins)
+- Histograms EXERCISE (10 mins)
+- Grouped Histograms (10 mins)
+- Box Plots (20 mins)
+- Grouped Box Plots (5 mins)
+- Using Seaborn (5 mins)
+- Scatter Plot EXERCISE (10 mins)
+- OPTIONAL: Understanding Matplotlib (if extra time)
+- OPTIONAL: Additional Topics (if extra time)
 - Summary
 
 ---
