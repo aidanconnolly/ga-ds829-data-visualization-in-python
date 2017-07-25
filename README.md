@@ -22,6 +22,8 @@
 - Then, walk the students through each part of the lab. Discuss when to use each type of plot.
 - Periodically stop and let the students try the challenges (together in groups if needed). The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
 
+This lesson purposefully uses a large number of datasets. This allows students to practice opening different types of data files. Having many datasets available allows us to explore a variety of visualizations throughout the lesson that might not be present in one dataset alone.
+
 ---
 
 ## Learning Objectives
