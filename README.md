@@ -38,6 +38,15 @@
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+
+- Recall and define the basic syntax for Pandas DataFrames and Series
+- Demonstrate how to input sample python code in a jupyter notebook dataframe
+
+---
+
 ## Lesson Outline
 
 ### Instructor Notes
@@ -72,15 +81,6 @@
   - OPTIONAL: Understanding Matplotlib (if extra time)
   - OPTIONAL: Additional Topics (if extra time)
 - Summary
-
----
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Recall and define the basic syntax for Pandas DataFrames and Series
-- Demonstrate how to input sample python code in a jupyter notebook dataframe
 
 ---
 
