@@ -17,12 +17,7 @@
 |          | Drinks consumed per capita in various countries | [Here](./datasets/drinks.csv) |
 <!--| Source Materials | Original files used to create this lesson | -- |-->
 
-**Instructor:**
-- Start with the lesson Jupyter slide deck.
-- Then, walk the students through each part of the lab. Discuss when to use each type of plot.
-- Periodically stop and let the students try the challenges (together in groups if needed). The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
-
-This lesson purposefully uses a large number of datasets. This allows students to practice opening different types of data files. Having many datasets available allows us to explore a variety of visualizations throughout the lesson that might not be present in one dataset alone.
+> This lesson purposefully uses a large number of datasets. This allows students to practice opening different types of data files. Having many datasets available allows us to explore a variety of visualizations throughout the lesson that might not be present in one dataset alone.
 
 ---
 
@@ -45,7 +40,13 @@ This lesson purposefully uses a large number of datasets. This allows students t
 
 ## Lesson Outline
 
-### Part 1: Data Visualization Overview (40 mins)
+### Instructor Notes
+- Start with the lesson Jupyter slide deck.
+- Then, walk the students through each part of the lab. Discuss when to use each type of plot.
+- Periodically stop and let the students try the challenges (together in groups if needed). The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
+
+### Outline: Part 1 (Data Visualization Overview)
+> 40 mins
 
 - Why Use Data Visualization? (5 mins)
 - Anscombe's Quartet (10 mins)
@@ -54,21 +55,22 @@ This lesson purposefully uses a large number of datasets. This allows students t
 - Independent Research (see Part 2)
 - Conclusion
 
-### Part 2: Guided Practice Lab (130 mins)
+### Outline: Part 2 (Guided Practice Lab)
+> 130 mins
 
 - Line Plots (20 mins)
-- Line Plots EXERCISE (10 mins)
+ - Line Plots EXERCISE (10 mins)
 - Bar Plots (15 mins)
-- Bar Plots EXERCISE (10 mins)
+ - Bar Plots EXERCISE (10 mins)
 - Histograms (15 mins)
-- Histograms EXERCISE (10 mins)
+ - Histograms EXERCISE (10 mins)
 - Grouped Histograms (10 mins)
 - Box Plots (20 mins)
 - Grouped Box Plots (5 mins)
 - Using Seaborn (5 mins)
-- Scatter Plot EXERCISE (10 mins)
-- OPTIONAL: Understanding Matplotlib (if extra time)
-- OPTIONAL: Additional Topics (if extra time)
+ - Scatter Plot EXERCISE (10 mins)
+  - OPTIONAL: Understanding Matplotlib (if extra time)
+  - OPTIONAL: Additional Topics (if extra time)
 - Summary
 
 ---
@@ -78,6 +80,7 @@ This lesson purposefully uses a large number of datasets. This allows students t
 Before this lesson(s), students should already be able to:
 
 - Recall and define the basic syntax for Pandas DataFrames and Series
+- Demonstrate how to input sample python code in a jupyter notebook dataframe
 
 ---
 
