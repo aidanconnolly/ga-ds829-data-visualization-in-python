@@ -9,8 +9,8 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | High-level overview (ipynb slides) | [Here](python-data-viz-slides.ipynb) |
-| Practice Activity | Instructor-run lab with exercises | [Here](./practice/python-data-viz-lab.ipynb) |
-| Solution  | Solutions to the lab exercises. | [Here](./practice/solution-code/python-data-viz-lab-solutions.ipynb) |
+| Practice Activity | Instructor-run lab with exercises | [Here](python-data-viz-lab.ipynb) |
+| Solution  | Solutions to the lab exercises. | Here |
 | Datasets | Standard UCI Boston housing | [Here](./datasets/boston_housing_data.csv) |
 |          | Generic quarterly sales data | [Here](./datasets/sales_info.csv) |
 |          | UFO sighting records | [Here](./datasets/ufo.csv) |
