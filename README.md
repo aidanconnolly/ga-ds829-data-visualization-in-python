@@ -49,11 +49,6 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-### Instructor Notes
-- Start with the lesson Jupyter slide deck.
-- Then, walk the students through each part of the lab. Discuss when to use each type of plot.
-- Periodically stop and let the students try the challenges (together in groups if needed). The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
-
 ### Outline: Part 1 (Data Visualization Overview)
 > 40 mins
 
